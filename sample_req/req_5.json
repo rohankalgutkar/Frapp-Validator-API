@@ -1,0 +1,43 @@
+{
+    "dependencyGraph": {
+        "tasks": [
+            {
+                "dependency": [
+                    1
+                ]
+            },
+            {
+                "dependency": [
+                    2
+                ]
+            },
+            {
+                "dependency": [
+                    3
+                ]
+            },
+            {
+                "dependency": [
+                    0
+                ]
+            }
+        ]
+    },
+    "currentState": {
+        "tasks": [
+            {
+                "status": "pending"
+            },
+            {
+                "status": "complete"
+            },
+            {
+                "status": "pending"
+            },
+            {
+                "status": "complete"
+            }
+        ]
+    },
+    "task": 2
+}
